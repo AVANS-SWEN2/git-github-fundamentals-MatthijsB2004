@@ -1,4 +1,4 @@
-Naan: Matthijs Busch /
+Naan: Matthijs Busch
 Githubid: 51858735
 
 # :wave: The Basics of GitHub 
